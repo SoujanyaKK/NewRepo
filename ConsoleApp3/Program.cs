@@ -11,8 +11,6 @@ namespace ConsoleApp3
 	{
 		static void Main(string[] args)
 		{
-		
-				// Serializaion
 				Employee empObj = new Employee();
 				empObj.ID = 1;
 				empObj.Name = "Soujanya";
